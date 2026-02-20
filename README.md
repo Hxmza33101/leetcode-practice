@@ -22,7 +22,6 @@ This was a more complicated leetcode problem that I had a tough time with. I was
 
 **14/2/26:** The importance of the [k % n] is understated in my previous entry. I only figured it out after trying to complete it myself, without any resources. When k is greater than n, attempting to reverse at k will cause an out of bounds error. The importance of [k%n] stems from the fact that if k == n, the array rotates all the way through and ends up unchanged. Therefore when the % operator is used, the result is the final amount that the array elements are shifted.
 
-
 ## 12/2/26
 
 I completed and added 2 leetcode problems. I learned about **hashmaps** and how to use them to save time complexity through removing the need to reitterate through arrays.
@@ -40,7 +39,11 @@ Completed:
 2. Subarray Sum Equals K (medium)
    This one was a difficult problem. I completed it using the inbuilt Map() feature of js. An itteration of the array is completed, during which, the current element is subtracted from k, and a check is performed to see if the result is in the hashmap, if yes, the count is increased, if no, the current element and index are added to the map.
 
-
 ## 14/2/26
 
 Haven't done new leetcode problems, have been watching relevant videos. Redid completed leetcode questions as refreshers, ended up reinforcing previous topics, have a greater understanding as a result. Redid reverse and rotate array leetcode questions.
+
+
+## 20/2/26
+
+Quickly completed some work on BST data structures. Understood how they work, and attempted to create one from scratch using my previous knowledge on linked lists. I attempted to force them to be sorted when creating one node, however this was the wrong approach due to errors caused by scope. I learned how to properly create a BST and coded it, made sure to wrap my head around the concept.
