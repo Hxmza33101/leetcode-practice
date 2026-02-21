@@ -43,7 +43,14 @@ Completed:
 
 Haven't done new leetcode problems, have been watching relevant videos. Redid completed leetcode questions as refreshers, ended up reinforcing previous topics, have a greater understanding as a result. Redid reverse and rotate array leetcode questions.
 
-
 ## 20/2/26
 
 Quickly completed some work on BST data structures. Understood how they work, and attempted to create one from scratch using my previous knowledge on linked lists. I attempted to force them to be sorted when creating one node, however this was the wrong approach due to errors caused by scope. I learned how to properly create a BST and coded it, made sure to wrap my head around the concept.
+
+
+## 21/2/26
+
+Was working mostly on refining the integration of AI into my workflow. Completed the HTML course on Free Code Academy. Also did some linked lists within this GitHub repository. Worked on remembering how to create linked lists as well as integrating the main methods of linked lists, such as:
+
+* inserting data/nodes to the front and the back of the linked list
+* iterating through the linked list and displaying the data at each node
