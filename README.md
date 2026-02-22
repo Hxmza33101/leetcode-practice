@@ -54,3 +54,8 @@ Was working mostly on refining the integration of AI into my workflow. Completed
 
 * inserting data/nodes to the front and the back of the linked list
 * iterating through the linked list and displaying the data at each node
+
+
+## 22/2/26
+
+Completed palindrome question on elite code tested my ability to iterate through strings and compare its content.I had two solutions for this problem. The first pushed each valid element onto an array, which was then checked from both ends to see if each character matched. The second method used a two-pointer system in which several while loops were used to check if the characters from each end matched each other, skipping invalid characters
