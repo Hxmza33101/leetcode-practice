@@ -47,7 +47,6 @@ Haven't done new leetcode problems, have been watching relevant videos. Redid co
 
 Quickly completed some work on BST data structures. Understood how they work, and attempted to create one from scratch using my previous knowledge on linked lists. I attempted to force them to be sorted when creating one node, however this was the wrong approach due to errors caused by scope. I learned how to properly create a BST and coded it, made sure to wrap my head around the concept.
 
-
 ## 21/2/26
 
 Was working mostly on refining the integration of AI into my workflow. Completed the HTML course on Free Code Academy. Also did some linked lists within this GitHub repository. Worked on remembering how to create linked lists as well as integrating the main methods of linked lists, such as:
@@ -55,7 +54,8 @@ Was working mostly on refining the integration of AI into my workflow. Completed
 * inserting data/nodes to the front and the back of the linked list
 * iterating through the linked list and displaying the data at each node
 
-
 ## 22/2/26
 
-Completed palindrome question on elite code tested my ability to iterate through strings and compare its content.I had two solutions for this problem. The first pushed each valid element onto an array, which was then checked from both ends to see if each character matched. The second method used a two-pointer system in which several while loops were used to check if the characters from each end matched each other, skipping invalid characters
+Completed palindrome question on elite code tested my ability to iterate through strings and compare its content.I had two solutions for this problem. The first pushed each valid element onto an array, which was then checked from both ends to see if each character matched. The second method used a two-pointer system in which several while loops were used to check if the characters from each end matched each other, skipping invalid characters.
+
+Worked on stack and queue data structures, added files that contain information about how to create them using both arrays as well as creating them using classes with methods.
