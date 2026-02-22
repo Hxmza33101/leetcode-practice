@@ -59,3 +59,5 @@ Was working mostly on refining the integration of AI into my workflow. Completed
 Completed palindrome question on elite code tested my ability to iterate through strings and compare its content.I had two solutions for this problem. The first pushed each valid element onto an array, which was then checked from both ends to see if each character matched. The second method used a two-pointer system in which several while loops were used to check if the characters from each end matched each other, skipping invalid characters.
 
 Worked on stack and queue data structures, added files that contain information about how to create them using both arrays as well as creating them using classes with methods.
+
+Worked on the character frequency function. Used GitHub copilot to code it super efficiently and practicing the integration of AI such as GitHub copilot into my workflow to improve and maximize efficiency in my coding
