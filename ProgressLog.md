@@ -70,3 +70,5 @@ Worked on a valid anagram leetcode question. Had university classes today, so I 
 Within the valid_anagram question, I learned how to scratch that. Within the valid_anagram LeetCode question, I used my knowledge of hash maps in the form of JavaScript objects to check and record characters and their frequency, and an efficient way to compare it with another string with its characters and frequency.
 
 Completed reverse string LeetCode question. This reinforced the knowledge I learned from the reverse array LeetCode question. The way I did it was the same as the reverse array LeetCode question. I simultaneously swapped the values from both ends of the arrays using a two-pointer system.
+
+Added meaningful comment to rotate_array.js file in order to specify the question as well as add my insight and my thought process

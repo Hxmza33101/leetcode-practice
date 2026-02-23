@@ -1,3 +1,10 @@
+// 189. Rotate Array
+// Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+
+// The way I completed this leetcode problem is by using the knowledge I learned from the reverse array problem, adding it as a helper function within this rotate function, and calling it three times in order to play out the logic that occurs when an array is "rotated". 
+// Shifting elements a certain amount in one direction is the same as reversing the whole array, reversing from zero to the amount that's to be shifted, and reversing from the amount to be shifted to the end of the resultant array 
+
 var rotate = function(nums, k) {
     let n = nums.length;
     k = k % n;
