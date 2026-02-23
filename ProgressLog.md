@@ -67,4 +67,4 @@ Worked on the character frequency function. Used GitHub copilot to code it super
 
 Worked on a valid anagram leetcode question. Had university classes today, so I have been familiarizing myself with the syllabus as well as some of the content. Also differentiated the README.md file from this ProgressLog.md file in order to ensure proper procedures of git repositories
 
-Within the valid_anagram question, I learned how to scratch that. Within the valid_anagram LeetCode question, I used my knowledge of hash maps in the form of JavaScript objects to check and record characters and their frequency, and an efficient way to compare it with another string with its characters and frequency
+Within the valid_anagram question, I learned how to scratch that. Within the valid_anagram LeetCode question, I used my knowledge of hash maps in the form of JavaScript objects to check and record characters and their frequency, and an efficient way to compare it with another string with its characters and frequency.
