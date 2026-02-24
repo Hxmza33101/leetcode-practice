@@ -62,7 +62,6 @@ Worked on stack and queue data structures, added files that contain information 
 
 Worked on the character frequency function. Used GitHub copilot to code it super efficiently and practicing the integration of AI such as GitHub copilot into my workflow to improve and maximize efficiency in my coding
 
-
 ## 23/2/26
 
 Worked on a valid anagram leetcode question. Had university classes today, so I have been familiarizing myself with the syllabus as well as some of the content. Also differentiated the README.md file from this ProgressLog.md file in order to ensure proper procedures of git repositories
@@ -72,3 +71,7 @@ Within the valid_anagram question, I learned how to scratch that. Within the val
 Completed reverse string LeetCode question. This reinforced the knowledge I learned from the reverse array LeetCode question. The way I did it was the same as the reverse array LeetCode question. I simultaneously swapped the values from both ends of the arrays using a two-pointer system.
 
 Added meaningful comment to rotate_array.js file in order to specify the question as well as add my insight and my thought process
+
+## 24/2/26
+
+Worked on the merge intervals lead code question. This question tested my knowledge of 2D arrays, as well as how to sort them and efficiently traverse them in order to merge specific subarrays together. The dot push method was used to push subarrays into a new array in order to get a final answer
