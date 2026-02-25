@@ -75,3 +75,8 @@ Added meaningful comment to rotate_array.js file in order to specify the questio
 ## 24/2/26
 
 Worked on the merge intervals lead code question. This question tested my knowledge of 2D arrays, as well as how to sort them and efficiently traverse them in order to merge specific subarrays together. The dot push method was used to push subarrays into a new array in order to get a final answer
+
+
+## 25/2/26
+
+Worked on the move_zeroes leetcode question, in which all zeroes must be moved to the end of an array while keeping the order of the non-zero numbers the same. I completed it using 2 methods, both using a 2 pointer system, however one used swapping to get each element in the correct position while the other method moved all the non-zero elements to the front and filled the rest of the array with zeroes, keeping track using the .length of the total array length.
