@@ -81,3 +81,10 @@ Worked on the merge intervals lead code question. This question tested my knowle
 Worked on the move_zeroes leetcode question, in which all zeroes must be moved to the end of an array while keeping the order of the non-zero numbers the same. I completed it using 2 methods, both using a 2 pointer system, however one used swapping to get each element in the correct position while the other method moved all the non-zero elements to the front and filled the rest of the array with zeroes, keeping track using the .length of the total array length.
 
 Worked on the longest substring leetcode question. Completed a brute force method in which two iterations are done using nested loops to check if the first character repeats, which breaks the array. this value is then saved in a variable that records the longest length. If another subarray is found which is longer, this overwrites this variable, making the value the new longest subarray length
+
+
+## 6/3/26
+
+Have been doing work in my other project folders (haven't been slacking off)
+
+Today I worked on some recursion in js, I completed a few exercises such as factorial, array sum, etc.
