@@ -91,4 +91,4 @@ Today I worked on some recursion in js, I completed a few exercises such as fact
 
 ## 9/3/26
 
-Added remove_duplicated.js to. the linked list folder in the repository, answered the leetcode question, very simple, really just did it to add the contribution to my github profile today
+Added remove_duplicated.js to. the linked list folder in the repository, answered the leetcode question, very simple, really just did it to add the contribution to my github profile today. Also added comments to some files in the repo, again just to increase the commits for today, felt very lazy and tired today.
