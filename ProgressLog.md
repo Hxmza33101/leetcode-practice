@@ -82,9 +82,13 @@ Worked on the move_zeroes leetcode question, in which all zeroes must be moved t
 
 Worked on the longest substring leetcode question. Completed a brute force method in which two iterations are done using nested loops to check if the first character repeats, which breaks the array. this value is then saved in a variable that records the longest length. If another subarray is found which is longer, this overwrites this variable, making the value the new longest subarray length
 
-
 ## 6/3/26
 
 Have been doing work in my other project folders (haven't been slacking off)
 
 Today I worked on some recursion in js, I completed a few exercises such as factorial, array sum, etc.
+
+
+## 9/3/26
+
+Added remove_duplicated.js to. the linked list folder in the repository, answered the leetcode question, very simple, really just did it to add the contribution to my github profile today
