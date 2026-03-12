@@ -8,15 +8,17 @@ Today I learned about array destructuring assignment. A way to simultaneously ch
 
 Today i completed:
 
-    - 344. Reverse String (easy)
+```
+- 344. Reverse String (easy)
 
-    - 189. Rotate Array (med)
+- 189. Rotate Array (med)
+```
 
-344. Reverse String/Array (easy)
+1. Reverse String/Array (easy)
 
 I learned about array destructuring assignment. I completed an initial, more inefficient solution where I created a variable that stored the one elements data, before swapping them. I used this method as I did not know about ada at this point, this is inefficient as it takes more space in the form of the extra variable that must be created and redefined every itteration of the for loop.
 
-189. Rotate Array (med)
+1. Rotate Array (med)
 
 This was a more complicated leetcode problem that I had a tough time with. I was attempting to essentailly brute force it using a for loop and some unecessarily complicated math to figure out how many spaces over to move each element. However, I ended up implementing a helper function in the form of the Reverse Array function. I then reversed the whole and parts of the array to get my desired outcome.
 
@@ -30,14 +32,16 @@ I learned how to create hashmaps using both objects and the in built Map() featu
 
 Completed:
 
-    - 1. Two Sum (easy)
+```
+- 1. Two Sum (easy)
 
-    - 560. Subarray Sum Equals K (medium)
+- 560. Subarray Sum Equals K (medium)
+```
 
 1. Two Sum (easy)
-   I completed the brute force method, but the search for a more efficient solution led me to hashmaps. I used the object variation of maps, itterating through the array, and checking if [target-i] was a key in the hashmap. If it was, the value related to that key (which is the index) is returned, otherwise the current element and index are stored as the key and value within the object respectively.
+  I completed the brute force method, but the search for a more efficient solution led me to hashmaps. I used the object variation of maps, itterating through the array, and checking if [target-i] was a key in the hashmap. If it was, the value related to that key (which is the index) is returned, otherwise the current element and index are stored as the key and value within the object respectively.
 2. Subarray Sum Equals K (medium)
-   This one was a difficult problem. I completed it using the inbuilt Map() feature of js. An itteration of the array is completed, during which, the current element is subtracted from k, and a check is performed to see if the result is in the hashmap, if yes, the count is increased, if no, the current element and index are added to the map.
+  This one was a difficult problem. I completed it using the inbuilt Map() feature of js. An itteration of the array is completed, during which, the current element is subtracted from k, and a check is performed to see if the result is in the hashmap, if yes, the count is increased, if no, the current element and index are added to the map.
 
 ## 14/2/26
 
@@ -51,8 +55,8 @@ Quickly completed some work on BST data structures. Understood how they work, an
 
 Was working mostly on refining the integration of AI into my workflow. Completed the HTML course on Free Code Academy. Also did some linked lists within this GitHub repository. Worked on remembering how to create linked lists as well as integrating the main methods of linked lists, such as:
 
-* inserting data/nodes to the front and the back of the linked list
-* iterating through the linked list and displaying the data at each node
+- inserting data/nodes to the front and the back of the linked list
+- iterating through the linked list and displaying the data at each node
 
 ## 22/2/26
 
@@ -88,7 +92,10 @@ Have been doing work in my other project folders (haven't been slacking off)
 
 Today I worked on some recursion in js, I completed a few exercises such as factorial, array sum, etc.
 
-
 ## 9/3/26
 
 Added remove_duplicated.js to. the linked list folder in the repository, answered the leetcode question, very simple, really just did it to add the contribution to my github profile today. Also added comments to some files in the repo, again just to increase the commits for today, felt very lazy and tired today.
+
+## 12/3/26
+
+I added @flatten_array.js; this was a problem provided to me by Claude as a way to practice my JavaScript. Completing this problem helped me learn and understand the ...spread Feature of JavaScript and how it can be used in the context of arrays to format and individualize collective data.
