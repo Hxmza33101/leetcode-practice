@@ -99,3 +99,5 @@ Added remove_duplicated.js to. the linked list folder in the repository, answere
 ## 12/3/26
 
 I added @flatten_array.js; this was a problem provided to me by Claude as a way to practice my JavaScript. Completing this problem helped me learn and understand the ...spread Feature of JavaScript and how it can be used in the context of arrays to format and individualize collective data.
+
+Also completed 2 other JavaScript problems @count_occurence.js and @group_by_length.js. These problems help me understand how to use objects within JavaScript.
