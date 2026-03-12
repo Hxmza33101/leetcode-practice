@@ -3,6 +3,14 @@
 
 function groupByLength(arr) {
     let group = {};
+    for (let i = 0; i < arr.length; i++) {
+        if (!group[arr[i].length]) {
+            group[arr[i].length] = [];
+        } 
+        group[arr[i].length].push(arr[i]);
+    }
+    console.log(group);
+    return group;
 }
 
 
