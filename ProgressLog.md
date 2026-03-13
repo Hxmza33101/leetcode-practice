@@ -101,3 +101,7 @@ Added remove_duplicated.js to. the linked list folder in the repository, answere
 I added @flatten_array.js; this was a problem provided to me by Claude as a way to practice my JavaScript. Completing this problem helped me learn and understand the ...spread Feature of JavaScript and how it can be used in the context of arrays to format and individualize collective data.
 
 Also completed 2 other JavaScript problems @count_occurence.js and @group_by_length.js. These problems help me understand how to use objects within JavaScript.
+
+## 13/3/26
+
+Added @reverse_words.js to the repository. This problem was suggested by claude, this problem helped with my string manipulation and in altering strings in relation to whitespaces.
