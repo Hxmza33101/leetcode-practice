@@ -104,4 +104,4 @@ Also completed 2 other JavaScript problems @count_occurence.js and @group_by_len
 
 ## 13/3/26
 
-Added @reverse_words.js to the repository. This problem was suggested by claude, this problem helped with my string manipulation and in altering strings in relation to whitespaces.
+Added @reverse_words.js to the repository. This problem was suggested by claude, this problem helped with my string manipulation and in altering strings in relation to whitespaces. Also completed the @find_duplicates.js problem provided by claude. This problem allowed me to practice array traversal and manipulation. It helped me put my understanding of objects/maps in js to use to solve the problem.
