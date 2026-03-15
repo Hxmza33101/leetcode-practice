@@ -109,3 +109,7 @@ Added @reverse_words.js to the repository. This problem was suggested by claude,
 ## 14/3/26
 
 Completed @chunk_array.js question, a problem provided by claude to practice my js proficiency. This problem helped with my traversal through arrays and handling of nested/2d arrays
+
+## 15/3/26
+
+Completed @title_case.js problem provided by claude. Goal is to return a string with all the first letters of every word capitalised.
