@@ -113,3 +113,7 @@ Completed @chunk_array.js question, a problem provided by claude to practice my 
 ## 15/3/26
 
 Completed @title_case.js problem provided by claude. Goal is to return a string with all the first letters of every word capitalised.
+
+## 16/3/26
+
+Completed @flatten_object.js and @fizzbuzz.js. These problems were provided by claude to help me practice my understanding of JS concepts. Fizzbuzz was a simple warmup using arrays in while loops to count what itteration im on. Flatten object was more difficult and required me to broaden my understanding of how to traverse and manipulate data in objects.
