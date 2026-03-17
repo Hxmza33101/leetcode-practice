@@ -117,3 +117,7 @@ Completed @title_case.js problem provided by claude. Goal is to return a string 
 ## 16/3/26
 
 Completed @flatten_object.js and @fizzbuzz.js. These problems were provided by claude to help me practice my understanding of JS concepts. Fizzbuzz was a simple warmup using arrays in while loops to count what itteration im on. Flatten object was more difficult and required me to broaden my understanding of how to traverse and manipulate data in objects.
+
+## 17/3/26
+
+Completed remove_duplicates problem, provided by ChatGPT, this problem had 2 solutions, one using the inbuilt .include() method of js and the other using object/maps to keep track of what has been added to the result
