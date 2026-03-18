@@ -121,3 +121,7 @@ Completed @flatten_object.js and @fizzbuzz.js. These problems were provided by c
 ## 17/3/26
 
 Completed remove_duplicates problem, provided by ChatGPT, this problem had 2 solutions, one using the inbuilt .include() method of js and the other using object/maps to keep track of what has been added to the result
+
+## 18/3/26
+
+Completed first_unique.js, a problem provided by ChatGPT that helps in my understanding of counting + second pass logic in relation to problems in js.
