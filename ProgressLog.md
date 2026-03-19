@@ -125,3 +125,8 @@ Completed remove_duplicates problem, provided by ChatGPT, this problem had 2 sol
 ## 18/3/26
 
 Completed first_unique.js, a problem provided by ChatGPT that helps in my understanding of counting + second pass logic in relation to problems in js.
+
+## 19/3/26
+
+Added and completed compact array problem, provided by chatgpt, its a simple problem that helps in practicing my fundamentals. It is a common occurence in practical code so it was worth completing the problem
+
