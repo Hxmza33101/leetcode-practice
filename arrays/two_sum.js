@@ -52,4 +52,3 @@ var twoSum1 = function(nums, target) {
     return arr
 };
 
-//This one works by creating a 
