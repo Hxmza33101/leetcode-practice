@@ -130,3 +130,6 @@ Completed first_unique.js, a problem provided by ChatGPT that helps in my unders
 
 Added and completed compact array problem, provided by chatgpt, its a simple problem that helps in practicing my fundamentals. It is a common occurence in practical code so it was worth completing the problem
 
+## 20/3/26
+
+Added max_subarray.js solution, problem provided by chatgpt. Also affected comments in other files
