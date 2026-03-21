@@ -1,3 +1,5 @@
+// This factorial function recursively returns the factorial of a given number x.
+
 function factorial(x) {
     if (x < 0) {
         throw new Error("Input must be positive");

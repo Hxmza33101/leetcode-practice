@@ -1,3 +1,5 @@
+// Array sum is a problem that recursively returns the sum of all integers in an array.
+
 let array = [1, 2, 3];
 
 function arraySum(arr) {

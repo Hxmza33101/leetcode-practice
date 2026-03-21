@@ -1,3 +1,5 @@
+// Countdown is a function that recursively counts down from a given number n.
+
 function countDown(n) {
     if (n <= 0) {
         console.log('Done!')
