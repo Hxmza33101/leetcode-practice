@@ -133,3 +133,7 @@ Added and completed compact array problem, provided by chatgpt, its a simple pro
 ## 20/3/26
 
 Added max_subarray.js solution, problem provided by chatgpt. Also affected comments in other files
+
+## 21/3/26
+
+Lazy day, just added comments to some of the code files, adding meaningful insight to the files.
