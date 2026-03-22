@@ -137,3 +137,6 @@ Added max_subarray.js solution, problem provided by chatgpt. Also affected comme
 ## 21/3/26
 
 Lazy day, just added comments to some of the code files, adding meaningful insight to the files.
+
+## 22/3/26
+Completed another problem provided by ChatGPT, this problem involved itterating through an array and returning an array that multiplies certain elements within the array together, careful to not multiply some of the numbers
