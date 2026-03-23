@@ -140,3 +140,6 @@ Lazy day, just added comments to some of the code files, adding meaningful insig
 
 ## 22/3/26
 Completed another problem provided by ChatGPT, this problem involved itterating through an array and returning an array that multiplies certain elements within the array together, careful to not multiply some of the numbers
+
+## 23/3/26
+Completed a problem provided by chatgpt in which 2 sorted arrays are merged in ascending order. This problem helped me practice my understanding of 2 pointers in code and how to safely and properly implement them without adding dead code or redundant parts of the logic.
