@@ -139,11 +139,13 @@ Added max_subarray.js solution, problem provided by chatgpt. Also affected comme
 Lazy day, just added comments to some of the code files, adding meaningful insight to the files.
 
 ## 22/3/26
+
 Completed another problem provided by ChatGPT, this problem involved itterating through an array and returning an array that multiplies certain elements within the array together, careful to not multiply some of the numbers
 
 ## 23/3/26
+
 Completed a problem provided by chatgpt in which 2 sorted arrays are merged in ascending order. This problem helped me practice my understanding of 2 pointers in code and how to safely and properly implement them without adding dead code or redundant parts of the logic.
 
 ## 24/3/26
-Completed mergeSort, a semi complex method of sorting an unsorted array by halving an array and rebuilding it while sorting the elements in ascending order.
-This is useful as it is a practical idea/piece of code that is likely to show up in real world scenarios.
+
+Completed mergeSort, a semi complex method of sorting an unsorted array by halving an array and rebuilding it while sorting the elements in ascending order. This is useful as it is a practical idea/piece of code that is likely to show up in real world scenarios.
