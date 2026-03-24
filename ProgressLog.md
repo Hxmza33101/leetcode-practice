@@ -143,3 +143,7 @@ Completed another problem provided by ChatGPT, this problem involved itterating 
 
 ## 23/3/26
 Completed a problem provided by chatgpt in which 2 sorted arrays are merged in ascending order. This problem helped me practice my understanding of 2 pointers in code and how to safely and properly implement them without adding dead code or redundant parts of the logic.
+
+## 24/3/26
+Completed mergeSort, a semi complex method of sorting an unsorted array by halving an array and rebuilding it while sorting the elements in ascending order.
+This is useful as it is a practical idea/piece of code that is likely to show up in real world scenarios.
