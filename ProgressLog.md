@@ -149,3 +149,6 @@ Completed a problem provided by chatgpt in which 2 sorted arrays are merged in a
 ## 24/3/26
 
 Completed mergeSort, a semi complex method of sorting an unsorted array by halving an array and rebuilding it while sorting the elements in ascending order. This is useful as it is a practical idea/piece of code that is likely to show up in real world scenarios.
+
+## 25/3/26
+Today was more spent researching and broadening my knowledge rather than completing DSA problems.
