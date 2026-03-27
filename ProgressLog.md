@@ -152,3 +152,6 @@ Completed mergeSort, a semi complex method of sorting an unsorted array by halvi
 
 ## 25/3/26
 Today was more spent researching and broadening my knowledge rather than completing DSA problems.
+
+## 26/3/26
+Completed the removeElement_inPlace.js problem, a problem provided by ChatGPT to practice my array traversal and was a practice in modifying arrays without extra space as well as practicing pointer shifting / overwrite.
