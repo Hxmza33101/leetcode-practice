@@ -154,4 +154,4 @@ Completed mergeSort, a semi complex method of sorting an unsorted array by halvi
 Today was more spent researching and broadening my knowledge rather than completing DSA problems.
 
 ## 26/3/26
-Completed the removeElement_inPlace.js problem, a problem provided by ChatGPT to practice my array traversal and was a practice in modifying arrays without extra space as well as practicing pointer shifting / overwrite.
+Completed the removeElement_inPlace.js problem, a problem provided by ChatGPT to practice my array traversal and was a practice in modifying arrays without extra space as well as practicing pointer shifting / overwrite. Also completed a second containsDuplicate problem, this one was a bit more difficult than just checking if there were duplicates in the array at all. This problem a function that would check if the 2 duplicate elements were within a certain range of each other.
