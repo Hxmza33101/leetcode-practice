@@ -161,3 +161,6 @@ Didn't do any DSA today, was working on discrete math unit coursework
 
 ## 29/3/26
 Completed daily_temps.js problem, provided by chatgpt, its a simple problem that requires a nested loop to itterate through an array and compare values.
+
+## 30/3/26
+Calm day today, completed topK_frequent_elements.js problem provided by chatgpt.
