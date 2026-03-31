@@ -164,3 +164,6 @@ Completed daily_temps.js problem, provided by chatgpt, its a simple problem that
 
 ## 30/3/26
 Calm day today, completed topK_frequent_elements.js problem provided by chatgpt.
+
+## 31/3/26
+Worked on my project instead of DSA today.
