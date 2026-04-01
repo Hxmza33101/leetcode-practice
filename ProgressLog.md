@@ -167,3 +167,6 @@ Calm day today, completed topK_frequent_elements.js problem provided by chatgpt.
 
 ## 31/3/26
 Worked on my project instead of DSA today.
+
+## 1/3/26
+Got a job at apple.. (april fools). Did uni work today instead of DSA, will contribute to the repo tomorrow.
