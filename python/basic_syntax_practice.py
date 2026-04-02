@@ -48,3 +48,11 @@ None
 # TRUTHY AND FALSY
 if not arr:
     print("empty")
+
+# CLASSES (Basic)
+class Person:
+    def __init__(self, name):
+        self.name = name
+        
+# IMPORTS
+import math
