@@ -151,25 +151,41 @@ Completed a problem provided by chatgpt in which 2 sorted arrays are merged in a
 Completed mergeSort, a semi complex method of sorting an unsorted array by halving an array and rebuilding it while sorting the elements in ascending order. This is useful as it is a practical idea/piece of code that is likely to show up in real world scenarios.
 
 ## 25/3/26
+
 Today was more spent researching and broadening my knowledge rather than completing DSA problems.
 
 ## 26/3/26
+
 Completed the removeElement_inPlace.js problem, a problem provided by ChatGPT to practice my array traversal and was a practice in modifying arrays without extra space as well as practicing pointer shifting / overwrite. Also completed a second containsDuplicate problem, this one was a bit more difficult than just checking if there were duplicates in the array at all. This problem a function that would check if the 2 duplicate elements were within a certain range of each other.
 
 ## 28/3/26
+
 Didn't do any DSA today, was working on discrete math unit coursework
 
 ## 29/3/26
+
 Completed daily_temps.js problem, provided by chatgpt, its a simple problem that requires a nested loop to itterate through an array and compare values.
 
 ## 30/3/26
+
 Calm day today, completed topK_frequent_elements.js problem provided by chatgpt.
 
 ## 31/3/26
+
 Worked on my project instead of DSA today.
 
 ## 1/3/26
+
 Got a job at apple.. (april fools). Did uni work today instead of DSA, will contribute to the repo tomorrow.
 
 ## 2/3/26
+
 Am going to work on python alongside js, so I split the repo into 2 folders based on the language within it. Completing a basic python syntax document today as well as a few beginner functions to ease my way into it and handle the differences between js and python.
+
+Completed 2 problems today in python alongside the basic syntax file:
+
+- remove_duplicates.py
+- count_occurrences.py
+
+These are both problems I have completed in JavaScript before, so I didn't learn anything in terms of logic, however it was useful in helping me get used to the syntax of python.
+
