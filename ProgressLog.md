@@ -170,3 +170,6 @@ Worked on my project instead of DSA today.
 
 ## 1/3/26
 Got a job at apple.. (april fools). Did uni work today instead of DSA, will contribute to the repo tomorrow.
+
+## 2/3/26
+Am going to work on python alongside js, so I split the repo into 2 folders based on the language within it. Completing a basic python syntax document today as well as a few beginner functions to ease my way into it and handle the differences between js and python.
