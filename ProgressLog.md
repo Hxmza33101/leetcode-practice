@@ -179,7 +179,6 @@ Worked on my project instead of DSA today.
 Got a job at apple.. (april fools). Did uni work today instead of DSA, will contribute to the repo tomorrow.
 
 ## 2/3/26
-
 Am going to work on python alongside js, so I split the repo into 2 folders based on the language within it. Completing a basic python syntax document today as well as a few beginner functions to ease my way into it and handle the differences between js and python.
 
 Completed 2 problems today in python alongside the basic syntax file:
@@ -189,3 +188,6 @@ Completed 2 problems today in python alongside the basic syntax file:
 
 These are both problems I have completed in JavaScript before, so I didn't learn anything in terms of logic, however it was useful in helping me get used to the syntax of python.
 
+
+## 3/3/26
+I added to the count_occurrences.py file today, I added a second way to do it that uses python's inbuilt .get() method, it serves the same purpose in a safer and less error prone way. I also completed reverse_words.py, a string manipulation problem in which I got to familiarise myself with using string related methods like .split() and .join() and how they work in Python. Still not completely used to the way python handles for loops, I feel javascript is much more intuitive in this sense.
