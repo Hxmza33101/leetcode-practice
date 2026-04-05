@@ -179,6 +179,7 @@ Worked on my project instead of DSA today.
 Got a job at apple.. (april fools). Did uni work today instead of DSA, will contribute to the repo tomorrow.
 
 ## 2/3/26
+
 Am going to work on python alongside js, so I split the repo into 2 folders based on the language within it. Completing a basic python syntax document today as well as a few beginner functions to ease my way into it and handle the differences between js and python.
 
 Completed 2 problems today in python alongside the basic syntax file:
@@ -188,6 +189,24 @@ Completed 2 problems today in python alongside the basic syntax file:
 
 These are both problems I have completed in JavaScript before, so I didn't learn anything in terms of logic, however it was useful in helping me get used to the syntax of python.
 
-
 ## 3/3/26
+
 I added to the count_occurrences.py file today, I added a second way to do it that uses python's inbuilt .get() method, it serves the same purpose in a safer and less error prone way. I also completed reverse_words.py, a string manipulation problem in which I got to familiarise myself with using string related methods like .split() and .join() and how they work in Python. Still not completely used to the way python handles for loops, I feel javascript is much more intuitive in this sense.
+
+## 5/4/26
+
+Didn't mean to skip yesterday, guess I forgot. Today I completed 3 problems:
+
+- check_palindrome.py
+- [fizzbuzz.py](http://fizzbuzz.py)
+- find_max.py
+
+These three problems are simple and I've completed them in JS already. However these problems helped me understand the differences in python syntax in comparison to JS. 
+
+In Python, incrementing is not possible using "i++", and you must use "i+=1". 
+
+I learned how the splice operation is used with strings in python from the  check_palindrome.py problem.
+
+I also learned how to check specifically in a range using the for loop, saying for i in range(n), checks 0 to n, however to itterate 1 to n like is needed in fizzbuzz, we use range(1, n).  
+
+
