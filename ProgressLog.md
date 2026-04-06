@@ -210,3 +210,7 @@ I learned how the splice operation is used with strings in python from the  chec
 I also learned how to check specifically in a range using the for loop, saying for i in range(n), checks 0 to n, however to itterate 1 to n like is needed in fizzbuzz, we use range(1, n).  
 
 Completed [inputs.py](http://inputs.py), learning how to take inputs in python, super simple in comparison to something like JS.
+
+
+## 6/4/26
+Not doing DSA today, rest day
