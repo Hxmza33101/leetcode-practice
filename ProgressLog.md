@@ -214,3 +214,7 @@ Completed [inputs.py](http://inputs.py), learning how to take inputs in python, 
 
 ## 6/4/26
 Not doing DSA today, rest day
+
+
+## 7/4/26
+Feeling super lazy again today, will definitely do something productive tomorrow.
