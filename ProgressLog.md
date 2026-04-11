@@ -220,3 +220,4 @@ Not doing DSA today, rest day
 Feeling super lazy again today, will definitely do something productive tomorrow.
 
 ## 11/4/26
+Completed sum digits and first unique problems in python, they were simple but helped me practice the syntax more in terms of dictionaries and for loops.
