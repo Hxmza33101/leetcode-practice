@@ -221,3 +221,6 @@ Feeling super lazy again today, will definitely do something productive tomorrow
 
 ## 11/4/26
 Completed sum digits and first unique problems in python, they were simple but helped me practice the syntax more in terms of dictionaries and for loops.
+
+## 13/4/26
+Didn't do yesterday, the commit streak is all but crumbled. I will continue it to the best of my ability, however, I am clearly having trouble staying consistent
