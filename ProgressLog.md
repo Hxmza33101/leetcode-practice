@@ -227,3 +227,6 @@ Didn't do yesterday, the commit streak is all but crumbled. I will continue it t
 
 ## 14/4/26
 Completed a simple problem today, remove evens in python, more list building practice, this helps me solidify my list building knowledge. The problem was provided by chatgpt to help me learn python as a JS coder, it gave me a bunch of simple yet fundamental problems to help me understand the syntax of python and how it differs from JS.
+
+## 15/4/26
+Added reverse_list.py to the repository, a simple yet fundamental problem within coding.
