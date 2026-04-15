@@ -229,4 +229,4 @@ Didn't do yesterday, the commit streak is all but crumbled. I will continue it t
 Completed a simple problem today, remove evens in python, more list building practice, this helps me solidify my list building knowledge. The problem was provided by chatgpt to help me learn python as a JS coder, it gave me a bunch of simple yet fundamental problems to help me understand the syntax of python and how it differs from JS.
 
 ## 15/4/26
-Added reverse_list.py to the repository, a simple yet fundamental problem within coding.
+Added reverse_list.py to the repository, a simple yet fundamental problem within coding. Also completed merge_lists.py problem, identical to the problem I've completed in JS, the logic is the same, it just needed to be translated over, again helping me solidify my knowledge regarding python syntax and how it compares to the JS sytax I am familiar with.
