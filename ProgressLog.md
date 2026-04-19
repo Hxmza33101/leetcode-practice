@@ -233,3 +233,6 @@ Added reverse_list.py to the repository, a simple yet fundamental problem within
 
 ## 16/4/26
 Rest day from work today, was out all day, will pick it up again tmrw.
+
+## 19/4/26
+I wasnt home all day yesterday, so another day i missed on the commit streak. Today I was completing my Eng2050 assignment, so that is the work I am considering for today as it did take a lot of time.
