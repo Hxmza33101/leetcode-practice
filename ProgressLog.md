@@ -236,3 +236,6 @@ Rest day from work today, was out all day, will pick it up again tmrw.
 
 ## 19/4/26
 I wasnt home all day yesterday, so another day i missed on the commit streak. Today I was completing my Eng2050 assignment, so that is the work I am considering for today as it did take a lot of time.
+
+## 22/4/26
+Have been preparing for the viva for my comp2100 assignment for the past few days, I took that viva today, I am not doing any work for a bit to relax.
