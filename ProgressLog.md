@@ -239,3 +239,6 @@ I wasnt home all day yesterday, so another day i missed on the commit streak. To
 
 ## 22/4/26
 Have been preparing for the viva for my comp2100 assignment for the past few days, I took that viva today, I am not doing any work for a bit to relax.
+
+## 23/4/26
+Another rest day, I feel like a chud programmer that larps on insta, or a fatass that keeps refeeding on the first day of the cut.
