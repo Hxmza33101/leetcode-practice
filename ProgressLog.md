@@ -242,3 +242,6 @@ Have been preparing for the viva for my comp2100 assignment for the past few day
 
 ## 23/4/26
 Another rest day, I feel like a chud programmer that larps on insta, or a fatass that keeps refeeding on the first day of the cut.
+
+## 25/4/26
+Am in melbourne rn, here to look at unis because we might move here. Spent all of yesterday on the drive so I wasnt able to commit at all.
