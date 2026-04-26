@@ -245,3 +245,6 @@ Another rest day, I feel like a chud programmer that larps on insta, or a fatass
 
 ## 25/4/26
 Am in melbourne rn, here to look at unis because we might move here. Spent all of yesterday on the drive so I wasnt able to commit at all.
+
+## 26/4/26
+Still in melbourne, not planning on doing much work, just want to keep the commit streak going. I did do some work for my Eng2050 group assignment though.
