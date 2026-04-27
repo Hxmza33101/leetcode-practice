@@ -248,3 +248,6 @@ Am in melbourne rn, here to look at unis because we might move here. Spent all o
 
 ## 26/4/26
 Still in melbourne, not planning on doing much work, just want to keep the commit streak going. I did do some work for my Eng2050 group assignment though.
+
+## 27/4/26
+Just got home to Sydney from Melbourne, will actually do work tomorrow, submitted Eng2050 assignment today, probably am not going to be moving to Melbourne so thats good.
