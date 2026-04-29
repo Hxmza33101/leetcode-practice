@@ -251,3 +251,6 @@ Still in melbourne, not planning on doing much work, just want to keep the commi
 
 ## 27/4/26
 Just got home to Sydney from Melbourne, will actually do work tomorrow, submitted Eng2050 assignment today, probably am not going to be moving to Melbourne so thats good.
+
+## 29/4/26
+Was working on uni stuff today.
