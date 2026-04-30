@@ -254,3 +254,6 @@ Just got home to Sydney from Melbourne, will actually do work tomorrow, submitte
 
 ## 29/4/26
 Was working on uni stuff today.
+
+## 30/4/26
+Spent today watching informational videos and doing uni work.
