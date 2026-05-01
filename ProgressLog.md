@@ -257,3 +257,6 @@ Was working on uni stuff today.
 
 ## 30/4/26
 Spent today watching informational videos and doing uni work.
+
+## 1/5/26
+Worked on discrete math (uni) work.
