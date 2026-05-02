@@ -260,3 +260,6 @@ Spent today watching informational videos and doing uni work.
 
 ## 1/5/26
 Worked on discrete math (uni) work.
+
+## 2/5/26
+Completed count vowels problem in python, it was simple and I used a brute force approach. Just easing my way back into doing actual work instead of larping.
