@@ -34,16 +34,92 @@ def convert():
     return 0
 
 
-def bin_to_dec(n):
-
-def bin_to_hex(n):
-
-def dec_to_bin(n):
+def bin_to_dec(binary):
+    decimal = 0
     
-def dec_to_hex(n):
+    # reverse so rightmost bit starts at position 0
+    binary = binary[::-1]
 
-def hex_to_dec(n):
+    for i in range(len(binary)):
+        digit = int(binary[i])
+        decimal += digit * (2 ** i)
+
+    return decimal
+
+def bin_to_hex(binary):
+    while len(binary) % 4 != 0:
+        binary = "0" + binary
+
+    hex_digits = "0123456789ABCDEF"
+    hexidecimal = ""
+
+    for i in range(0, len(binary), 4):
+        group = binary[i:i+4]          # take 4 bits
+        value = int(group, 2)         # binary -> decimal
+        hexidecimal += hex_digits[value]   # decimal -> hex digit
+
+    return hexidecimal.lstrip("0") or "0"
+
+
+def dec_to_bin(decimal):
+    if decimal == 0:
+        return "0"
+
+    binary = ""
+
+    while decimal > 0:
+        remainder = decimal % 2
+        binary = str(remainder) + result
+        decimal = decimal // 2
+
+    return binary
     
-def hex_to_bin(n):
+def dec_to_hex(decimal):
+    if num == 0:
+        return "0"
+
+    hex_digits = "0123456789ABCDEF"
+    hexidecimal = ""
+
+    while num > 0:
+        remainder = num % 16
+        hexidecimal = hex_digits[remainder] + hexidecimal
+        num = num // 16
+
+    return hexidecimal
+
+def hex_to_dec(hexidecimal):
+    hex_digits = "0123456789ABCDEF"
+    hexidecimal = hexidecimal.upper()
+    decimal = 0
+
+    power = 0
+
+    for digit in hexidecimal[::-1]:
+        value = hex_digits.index(digit)
+        decimal += value * (16 ** power)
+        power += 1
+
+    return decimal
+    
+def hex_to_bin(hexidecimal):
+    hex_digits = "0123456789ABCDEF"
+    binary = ""
+    
+    hexidecimal = hexidecimal.upper()
+
+    for digit in hexidecimal:
+        value = hex_digits.index(digit)
+        group = ""
+
+        while value > 0:
+            remainder = value % 2
+            group = str(remainder) + group
+            value = value // 2
+
+        group = group.zfill(4)
+        binary += group
+
+    return binary.lstrip("0") or "0"
 
 convert()
