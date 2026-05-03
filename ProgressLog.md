@@ -263,3 +263,6 @@ Worked on discrete math (uni) work.
 
 ## 2/5/26
 Completed count vowels problem in python, it was simple and I used a brute force approach. Just easing my way back into doing actual work instead of larping.
+
+## 3/5/26
+Worked on and made lots of progress on the convert_bases.py file. Almost complete with the whole code, the main function and helper logic functions are all set out, however there are still bugs that I need to fix, will do this another time though.
