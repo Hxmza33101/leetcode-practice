@@ -12,19 +12,37 @@ def convert():
         print(number)
         return number
     
+    if before == "d" and after == "b":
+        dec_to_bin(number)
+    
+    if before == "d" and after == "h":
+        dec_to_hex(number)
+    
+    if before == "b" and after == "d":
+        bin_to_dec(number)
+    
+    if before == "b" and after == "h":
+        bin_to_hex(number)
+        
+    if before == "h" and after == "d":
+        hex_to_dec(number)
+        
+    if before == "h" and after == "b":
+        hex_to_bin(number)
+        
     return 0
 
 
-def bin_to_dec():
+def bin_to_dec(n):
 
-def bin_to_hex():
+def bin_to_hex(n):
 
-def dec_to_bin():
+def dec_to_bin(n):
     
-def dec_to_hex():
+def dec_to_hex(n):
 
-def hex_to_dec():
+def hex_to_dec(n):
     
-def hex_to_bin():
+def hex_to_bin(n):
 
 convert()
