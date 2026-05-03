@@ -12,23 +12,24 @@ def convert():
         print(number)
         return number
     
-    if before == "d" and after == "b":
-        dec_to_bin(number)
-    
-    if before == "d" and after == "h":
-        dec_to_hex(number)
-    
-    if before == "b" and after == "d":
-        bin_to_dec(number)
-    
-    if before == "b" and after == "h":
-        bin_to_hex(number)
+    if before == "d":
+        if after == "b":
+            dec_to_bin(number)
         
-    if before == "h" and after == "d":
-        hex_to_dec(number)
-        
-    if before == "h" and after == "b":
-        hex_to_bin(number)
+        if after == "h":
+            dec_to_hex(number)
+    
+    if before == "b":
+        if after == "d":
+            bin_to_dec(number)
+        if after == "h":
+            bin_to_hex(number)
+    
+    if before == "h":
+        if after == "d":
+            hex_to_dec(number)
+        if after == "b":
+            hex_to_bin(number)
         
     return 0
 
