@@ -6,7 +6,7 @@ def convert():
     after = input("d(ecimal), b(inary) or h(exidecimal): ")
     
     number = input("\n Number to convert: ")
-    
+    number = int(number)
     
     if before == after:
         print(number)
@@ -37,7 +37,6 @@ def convert():
 def bin_to_dec(binary):
     decimal = 0
     
-    # reverse so rightmost bit starts at position 0
     binary = binary[::-1]
 
     for i in range(len(binary)):
