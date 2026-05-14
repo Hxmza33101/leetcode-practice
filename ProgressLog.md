@@ -269,3 +269,6 @@ Worked on and made lots of progress on the convert_bases.py file. Almost complet
 
 ## 10/5/26
 Wow, a whole week without commits, im cooked. I've been working on other stuff. I completed phase 1 or the second assignment in Comp2100 which was quite difficult.
+
+## 14/5/26
+Genuinely lacking so hard with these commits, did phase 2 and 3 of the second comp2100 assignment today.
